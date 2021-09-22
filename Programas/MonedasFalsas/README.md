@@ -14,7 +14,10 @@ Segun el *Banco de México* [1] una moneda de 10 pesos tiene las siguientes cara
 - Canto: Estriado
 
 ## Resultados
-
+- Primera Ejecución  
+![](https://github.com/JoseEduardoUAM/Diplomado-IoT-Programacion-Java/blob/master/Programas/MonedasFalsas/Imagenes/Imagen1.PNG)
+- Segunda Ejecución 
+![](https://github.com/JoseEduardoUAM/Diplomado-IoT-Programacion-Java/blob/master/Programas/MonedasFalsas/Imagenes/Imagen2.PNG)
 
 ## Referencias
 [1] Banco de México *https://www.banxico.org.mx/billetes-y-monedas/moneda-10-pesos-familia-c-cir.html*
