@@ -43,7 +43,7 @@ Al iniciar el programa se muestra un letro de Bienvenida y se observa un menu co
  1. Detectar Monedas Falsas : Opción para iniciar con el procedimiento para analizar una bolsa con monedas
  2. Salir : Opción para indicar la finalización del programa
 
- ![]()
+ ![](https://github.com/JoseEduardoUAM/Diplomado-IoT-Programacion-Java/blob/master/Programas/MonedasFalsasDiferenteValor/Imagenes/Imagen1.PNG)
 
 Al seleccionar la opción **1** se mostrará un mensaje solicitando el nombre de la bolsa (archivo de texto .txt)
 que se decea analizar:
@@ -52,11 +52,15 @@ que se decea analizar:
 # Ejemplo:
 bolsa1.txt
 ```
- ![]()
+ ![](https://github.com/JoseEduardoUAM/Diplomado-IoT-Programacion-Java/blob/master/Programas/MonedasFalsasDiferenteValor/Imagenes/Imagen2.PNG)
 
 Al presionar enter se debe mostrar los resultados:
 
- ![]()
+ ![](https://github.com/JoseEduardoUAM/Diplomado-IoT-Programacion-Java/blob/master/Programas/MonedasFalsasDiferenteValor/Imagenes/Imagen3.PNG)
+
+Después de esto se mostrará de nuevo el menu, si se decea salir se debe colocar la opcion 2:
+
+ ![](https://github.com/JoseEduardoUAM/Diplomado-IoT-Programacion-Java/blob/master/Programas/MonedasFalsasDiferenteValor/Imagenes/Imagen4.PNG)
 
 ## Referencias
 [1] *Banco de México* ***https://www.banxico.org.mx/billetes-y-monedas/monedas-en-nuevos-pesos-circu.html***
