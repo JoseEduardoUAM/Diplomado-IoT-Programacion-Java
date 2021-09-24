@@ -7,11 +7,11 @@ con respesto a como fueron creadas y almacenarlas en un archivo de texto .txt co
 
 ## Resultados
 
-![]()
+![](https://github.com/JoseEduardoUAM/Diplomado-IoT-Programacion-Java/blob/master/Programas/GenerarBolsaMonedas/Imagenes/imagen1.PNG)
 
-![]()
+![](https://github.com/JoseEduardoUAM/Diplomado-IoT-Programacion-Java/blob/master/Programas/GenerarBolsaMonedas/Imagenes/imagen2.PNG)
 
-![]()
+![](https://github.com/JoseEduardoUAM/Diplomado-IoT-Programacion-Java/blob/master/Programas/GenerarBolsaMonedas/Imagenes/imagen3.PNG)
 
 > **Nota: Los archivos generados por el programa son almacenados en la carpeta Bolsas**
 
